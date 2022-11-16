@@ -1,0 +1,3 @@
+https://dados.gov.br/dataset/contagens-volumetricas-de-radares
+http://servicosbhtrans.pbh.gov.br/Bhtrans/webservice/
+https://dados.pbh.gov.br/dataset/contagens-volumetricas-de-radares
