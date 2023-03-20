@@ -1,0 +1,27 @@
+Slide 1
+--------
+
+CAPA
+
+Slide 2:
+--------
+
+Tópico 1: Problemas decorrentes do crescimento desordenado das cidades
+
+O crescimento desordenado das cidades pode trazer problemas para a sociedade urbana por falta de planejamento.
+É importante estudar e entender o fluxo de veículos em uma cidade para uma melhor estruturação das vias públicas e do trânsito, gerando economia de tempo, recursos e cuidado com o meio ambiente.
+
+Tópico 2: Importância da análise do fluxo de veículos para a gestão de recursos e a melhoria da qualidade de vida
+
+Prever e entender o comportamento do fluxo de veículos em um determinado ponto de uma cidade é importante para melhor gestão de recursos, mitigação de acidentes, melhoria da qualidade de vida de uma população, tomadas de decisões quanto ao planejamento urbano, cuidado com o meio ambiente, entre outros motivos.
+
+Tópico 3: Disponibilidade de dados sobre trânsito em Belo Horizonte
+
+A prefeitura de Belo Horizonte disponibiliza através do portal BHTrans diversos dados relacionados ao trânsito na cidade, incluindo a contagem volumétrica de radares.
+Esses dados fornecem informações sobre data, horário, tipo de veículo e localização, permitindo análises mais precisas e eficientes.
+
+Tópico 4: Análise do fluxo de motocicletas na Av. Afonso Pena em Belo Horizonte
+
+O fluxo de motocicletas em uma cidade impacta diretamente na qualidade e na segurança do trânsito como um todo e pode ser bastante volátil em função de fatores externos.
+Foi realizada uma análise do fluxo de motocicletas na Av. Afonso Pena, equina com a Rua Maranhão nos meses de maio e junho de 2022, a fim de entender como fatores externos, como tipos de dia, horários e condições climáticas, influenciam o fluxo de motocicletas.
+
